@@ -1,7 +1,7 @@
 # Personal Finance Tracker
 Personal finance tracker for expense tracking, budgets, and visualize spending patterns
 
-Backend (Go or Python):
+Backend (Python):
 
 Create a robust API to handle financial data
 Implement user authentication and authorization
@@ -18,7 +18,7 @@ Ensure proper indexing for efficient querying
 Optional: Add cloud sync functionality using Firebase Realtime Database
 
 
-CI/CD (GitLab CI):
+CI/CD (GHA):
 
 Set up automated testing for both backend and frontend (if applicable)
 Implement linting and code quality checks
